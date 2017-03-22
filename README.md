@@ -1,2 +1,2 @@
 # squid-cache-extractor-logstash
-logstash parsers for ingesting squid-cache-extractor files
+Parsers for logstash (5.0.1) to parse in [squid-cache-extractor](https://github.com/wjwoodson/squid-cache-extractor) output for storage and visualization in elasticsearch/kibana
